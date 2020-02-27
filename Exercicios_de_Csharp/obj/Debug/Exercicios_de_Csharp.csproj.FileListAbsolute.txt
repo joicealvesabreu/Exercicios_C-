@@ -1,0 +1,6 @@
+C:\Users\joice.abreu\source\repos\Exercicios_de_Csharp\Exercicios_de_Csharp\bin\Debug\Exercicios_de_Csharp.exe.config
+C:\Users\joice.abreu\source\repos\Exercicios_de_Csharp\Exercicios_de_Csharp\bin\Debug\Exercicios_de_Csharp.exe
+C:\Users\joice.abreu\source\repos\Exercicios_de_Csharp\Exercicios_de_Csharp\bin\Debug\Exercicios_de_Csharp.pdb
+C:\Users\joice.abreu\source\repos\Exercicios_de_Csharp\Exercicios_de_Csharp\obj\Debug\Exercicios_de_Csharp.exe
+C:\Users\joice.abreu\source\repos\Exercicios_de_Csharp\Exercicios_de_Csharp\obj\Debug\Exercicios_de_Csharp.pdb
+C:\Users\joice.abreu\source\repos\Exercicios_de_Csharp\Exercicios_de_Csharp\obj\Debug\Exercicios_de_Csharp.csprojAssemblyReference.cache
